@@ -1,0 +1,11 @@
+name: Job
+on: [push]
+jobs:
+  Test-github-actions:
+    runs-on: ubuntu-latest
+    steps:
+    - run: echo "aplication job test"
+    - run: echo "Success"
+    - name: Check out repository code
+    
+#uses: actions/checkout@v3
