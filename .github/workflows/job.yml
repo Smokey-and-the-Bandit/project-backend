@@ -6,6 +6,5 @@ jobs:
     steps:
     - run: echo "aplication job test"
     - run: echo "Success"
-    - name: Check out repository code
-    
-#uses: actions/checkout@v3
+    #- name: Check out repository code
+    #uses: actions/checkout@v3
