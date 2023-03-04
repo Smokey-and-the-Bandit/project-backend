@@ -1,7 +1,7 @@
 # project-backend
 
-how to start:
-install python3
+how to start:\n
+install python3\n
 create venv
 install packages from requirements.txt
 
